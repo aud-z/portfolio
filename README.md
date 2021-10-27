@@ -1,14 +1,20 @@
 # portfolio
-This is a portfolio for my Telling Stories with Data projects at CMU.
+This is a public portfolio for my Telling Stories with Data class at CMU. 
 
 # About me
-Hi! My name is Audrey, and I'm a graduate student at CMU studying public policy and data analytics. I am fascinated with the role that data play in addressing society's complex solutions. Prior to grad school, I had the opportunity to help implement some very exciting Medicare innovation programs -- I analyzed Medicare claims data to construct key indicators for program impact and synthesized insights for program improvement. It was amazing to see data insights get translated into concrete policy action and measurable outcomes. That's why I am focusing my graduate studies on how best to harness data to drive effective decision-making. In my free time you can find me reading, hanging out with friends, and finding ways to escape to warmer weather (beach + diving). 
+Hi! My name is Audrey, and I'm a graduate student at CMU studying public policy and data analytics. Originally from Vancouver, Canada, I spent a few years in Chicago before settling down in San Francisco as my current homebase. I love going on adventures, trying new activities, and meeting new people. A few hobbies include reading, solo traveling, and scuba diving. I am also an avid hot sauce enthusiast (hot sauce should accompany every meal of the day).
+
+My professional background is in healthcare policy consulting, where I had the opportunity to help implement several Medicare innovation programs. I worked with Medicare claims data to construct key indicators to evaluate program impact and synthesized recommendations for program improvement. It was amazing to see data insights get translated into concrete policy action and measurable outcomes. Through that experience, I recognized the importance of conducting *good* data analysis, both to accurately interpret the data and to effectively communicate these findings to stakeholders. That's why I am focusing my graduate studies on how best to harness data to drive effective decision-making, both through bolstering my theoretical understanding and technical skills in machine learning, and through exploring the difficult topics surrounding ethics and interpretability of ML and AI. 
 
 # What I hope to learn
-I love being creative and finding new ways to create compelling narratives through data visualizations. I'm hoping to learn some new data visualization techniques that could better represent information in digestable and intuitive ways. I'm also hoping to learn how to better use color to highlight relevant information and key insights. I'm excited to bring these techniques to my future role as a data scientist! 
+
+The ability to create compelling narratives through visualizations is a foundational skill for any data scientist. This is why I'm excited about this class. I hope to learn new techniques to represent information through digestable and intuitive visualizations. I look forward to gaining hands-on practice with a variety of new tools I haven't used before and adding them to my repertoire as a data scientist. I'm also excited to exercise my creative muscles and bringing a more design-centric focus to my work.
+
+My post-graduation plan is to become a data scientist at a consulting firm. In this role, I need to bridge the gap between technical and non-technical audiences to drive effective decision-making through data. Data visualization is a shared language across technical backgrounds, so it is imperative that I learn to effectively communicate through memorable charts with clear messaging. I hope to leave this class with a more robust set of skills in each stage of the dataviz pipeline; from designing storyboards to collecting user feedback and ultimately executing on the visualizations. 
 
 # Portfolio
 Placeholders for upcoming assignments.
+
 ### Assignment 1
 ### Assignment 2
 ### Final Project
