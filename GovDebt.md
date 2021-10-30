@@ -4,3 +4,5 @@ This project analyzes governnment debt data from the OECD. The data can be acces
 
 {{embed}}<iframe src="https://data.oecd.org/chart/6vmv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><ahref="https://data.oecd.org/chart/6vmv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7677494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
