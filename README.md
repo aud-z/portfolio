@@ -13,8 +13,10 @@ The ability to create compelling narratives through visualizations is a foundati
 My post-graduation plan is to join a management consulting firm as a data scientist. In this role, I need to bridge the gap between technical and non-technical audiences to drive effective decision-making through data. Data visualization is a shared language across technical backgrounds, so it is imperative that I learn to effectively communicate through memorable charts with clear messaging. I hope to leave this class with a more robust set of skills in each stage of the dataviz pipeline; from designing storyboards to collecting user feedback and ultimately executing on the visualizations. 
 
 # Portfolio
-Placeholders for upcoming assignments.
 
-### Assignment 1
+Here are the projects I completed this semester.
+
+### Visualizing Government Debt 
+{{embed}}<iframe src="https://data.oecd.org/chart/6vmv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><ahref="https://data.oecd.org/chart/6vmv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 ### Assignment 2
 ### Final Project
