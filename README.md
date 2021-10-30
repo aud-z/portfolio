@@ -18,7 +18,7 @@ Here are the projects I completed this semester.
 
 ### Visualizing Government Debt 
 
-This project analyzes governnment debt data from the OECD. Check it out [here](GovDebt.md).
+This project analyzes governnment debt data from the OECD. Check it out [here](/GovDebt.md).
 
 ### Assignment 2
 ### Final Project
