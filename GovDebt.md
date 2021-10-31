@@ -10,7 +10,7 @@ Here is the Debt-to-GDP ratio for all countries across time. Use the drop-down t
 <div class="flourish-embed flourish-chart" data-src="visualisation/7677494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Debt-to-GDP ratio race chart, 1995-2020
-Just for fun, here's an animation of the debt-to-GDP ratio for all countries. Use the dropdown to filter to a particular region. Hover over a line to view country names and details. Highlighted countries are the same as those highlighted in the bar chart. 
+Just for fun, here's an animation of the debt-to-GDP ratio for all countries. Use the dropdown to filter to a particular region. Hover over the dots to view country names and details. Highlighted countries are the same as those highlighted in the bar chart. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7689852"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Debt-to-GDP ratio streamgraph, 1995-2020
