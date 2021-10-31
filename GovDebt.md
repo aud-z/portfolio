@@ -5,17 +5,19 @@ This project analyzes governnment debt data from the OECD. The data can be acces
 ### Total General Government Debt as a % of GDP, 2020
 {{embed}}<iframe src="https://data.oecd.org/chart/6vmv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><ahref="https://data.oecd.org/chart/6vmv" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
-### Government Debt as a % of GDP per Country
+### Debt-to-GDP ratio for all countries, 1995 - 2019
 Here is the Debt-to-GDP ratio for all countries across time. Use the drop-down to filter to a particular country. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7677494"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Debt-to-GDP ratio race chart, 1995-2020
 Just for fun, here's an animation of the debt-to-GDP ratio for all countries. Use the dropdown to filter to a particular region. Hover over a line to view country names and details. Highlighted countries are the same as those highlighted in the bar chart. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7689852"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Debt-to-GDP ratio streamgraph, 1995-2020
 Here is the Debt-to-GDP ratio for all countries, visualized as Streamgraphs. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7689802"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#### Analysis
+### Analysis
 
 The bar graph is a great way to visualize a point-in-time comparison of the debt-to-GDP ratio across different countries. To further focus the message of the graph, certain highlighted countries are colored such that they stand out from the remaining countries. 
 
