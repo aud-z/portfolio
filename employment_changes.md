@@ -40,3 +40,16 @@ I interviewed three friends for feedback on my wireframe. Below is a summary of 
 Across the board, it was clear that the design of the chart was a little confusing, perhaps because I tried to oversimplify. Friend A initially did not know what the chart is representing because they had skipped over the phrase in parentheses in the title. The lack of an axis denoting 0 was a common source of confusion for all respondents. When I asked whether it's helpful to include the September 2019 data as comparison, the general response is 'yes', but the way the information is presented seems to cause confusion. 
 
 The interviews were really helpful in informing my next steps. My priorities for the redesign would be 1) make it clear what the data are showing (net change in the number of jobs by sector); 2) add an axis to denote net 0 change; find a way to further de-emphasize other sectors and emphasize education; and 4) finding a way to simplify the comparison with 2019.
+
+
+# Re-design
+
+Below is my re-designed version of the chart. 
+
+<div class='tableauPlaceholder' id='viz1636423412371' style='position: relative'><noscript><a href='#'><img alt='Public education jobs usually see growth in September, lags instead in 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;em&#47;employment_trends&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='employment_trends&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;em&#47;employment_trends&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    var divElement = document.getElementById('viz1636423412371');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
