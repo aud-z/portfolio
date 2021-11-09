@@ -2,7 +2,16 @@
 
 For this assignment, I decided to critique the chart in the [CNBC article](https://www.cnbc.com/2021/10/08/where-the-jobs-are-september-2021-chart.html) titled "Here's Where the Jobs Are - in One Chart". I have always been interested in policy discussions surrounding education, and am curious how the COVID-19 pandemic and related political tensions regarding mask mandates and vaccine mandates may affect our public schools. The artile makes the point that "[p]ublic schools often bouy the September jobs report as \[public school districts\] hire teachers, bus drivers, administrators, and other staff back for the start of the fall term... That did not happen as it normally does in 2021". However, the provided chart does not make it clear the impact of public school employment on overall employment numbers. Instead, the reader only finds out through further reading that Government employment includes public education employmnet at the state and local levels, with overall employment dereasing by 144,000 in local government education and 17,000 in state government education, seasonally adjusted.
 
-In critiquing the visualization using Stephen Few's Data Visualization Effectiveness Profile, I identified both some pros of the visualizations that I'd like to keep, as well as several areas for improvement. First, the visualization is easy to interpret; the bar graph format is familiar to readers and the usage of color immediately draws a distinction between sectors with job gains versus job losses. this is something that I'd like to keep in my re-design so that the resulting graphic is still accessible for the general readership of CNBC. There isn't a lot of clutter, although the chart is distintly missing a key note that the data are seasonally adjusted (potentially misleading readers). I may add a note to clarify the seasonal adjustment to improve the accuracy of the chart. Of course, one key area of improvement would be to break dow the public education numbers to directly support the key points of the article. Specifically, I think it would be helpful to break down the 'Government' category into state education, local education, and other government. I also realized that it would be helpful to provide some context as to what the 'September boost' can be expected to look in a normal (non-pandemic) year. This inspired me to look for prior years' data from the same source (Bureau of Labor Statistics) that could provide a visual benchmark of sorts in my re-design.
+In critiquing the visualization using Stephen Few's Data Visualization Effectiveness Profile, I identified both some pros of the visualizations that I'd like to keep, as well as several areas for improvement. First, the visualization is easy to interpret; the bar graph format is familiar to readers and the usage of color immediately draws a distinction between sectors with job gains versus job losses. this is something that I'd like to keep in my re-design so that the resulting graphic is still accessible for the general readership of CNBC. There isn't a lot of clutter, although the chart is distintly missing a key note that the data are seasonally adjusted (potentially misleading readers). I may add a note to clarify the seasonal adjustment to improve the accuracy of the chart. Of course, one key area of improvement would be to break dow the public education numbers to directly support the key points of the article. Specifically, I think it would be helpful to break down the 'Government' category into state education, local education, and other government. I also realized that it would be helpful to provide some context as to what the 'September boost' can be expected to look in a normal (non-pandemic) year. This inspired me to look for prior years' data from the same source (Bureau of Labor Statistics) that could provide a visual benchmark of sorts in my re-design. 
+
+Below is a breakdown of my scoring of this visualization using the Data Visualization Effectiveness Profile.
+* Usefulness: 8/10 - the visualization is useful for the intended audience to get a sense of employment number changes over the past month. It does not, however, provide context that tells readers what to take away from the chart. Without the text explanations, the chart does not stand on its own.
+* Completeness: 8/10 - the chart breaks down the major employment sectors using the original data provided by BLS, but does not explain why the Education and Health Services category in the original dataset is only reported using a subset of the data for Health and Social Services. Additionally, the two numbers driving the main point of the article are hidden in the broader Government category, missing a level of granularity that tells the whole story. Thus, the data presented are not entirely complete.
+* Perceptibility: 10/10 - the bar chart format is quite easy to read and is familiar to the audience.
+* Truthfulness: 9/10 - the chart does not make it clear that the data are seasonally adjusted.
+* Intuitiveness: 10/10 - the chart is easy to interpret.
+* Aesthetics: 8/10 - the chart is relatively clean and easy to look at. The use of color could be improved to further highlight the key message of the article, though. 
+* Engagement: 6/10 - the chart by itself does not convey any message, and thus does not highlight any interesting findings that may engage the audience in further discourse.
 
 # Wireframing 
 
@@ -20,18 +29,18 @@ I interviewed three friends for feedback on my wireframe. Below is a summary of 
 (C) Whether jobs increased or decreased based on sector.
 
 2. What do you think this chart is telling you?
-(A) Change in jobs in different industries 
-(B) It's weird that the public education sector has shown a loss of jobs in September 
+(A) Change in jobs in different industries. 
+(B) It's weird that the public education sector has shown a loss of jobs in September. 
 (C) Local/public education employment is down 
 
 3. Was there anything you found surprising or confusing?
 (A) It was confusing how to interpret the chart at first because there's no axis. I thought the dots were the anchors and the lines were the direction of movement, so it looked like each line was starting at different points.
-(B) The phrase 'public education' was confusing; it wasn't clear that this is referring to a job sector rather than the general state of public education in society
+(B) The phrase 'public education' was confusing; it wasn't clear that this is referring to a job sector rather than the general state of public education in society.
 (C) The dashed lines - do they show some increase in jobs but the overall net was decrease? 
 
 4. Who do you think the intended audience is?
-(A) the general public 
-(B) Wall Street Journal readers
+(A) the general public. 
+(B) Wall Street Journal readers.
 (C) the public? 
 
 5. Is there anything you would change or do differently?
