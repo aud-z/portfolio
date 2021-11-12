@@ -20,5 +20,11 @@ Here are the projects I completed this semester.
 
 This project analyzes governnment debt data from the OECD. Check it out [here](/GovDebt.md).
 
-### Assignment 2
+### Visualization Critique & Re-design
+
+In this project, I critiqued and created a re-design of a visualization showing the change in employment by sector in September 2021. Check it out [here](/
+employment_changes.md)
+
 ### Final Project
+
+For my final project, I wanted to create awareness and drive action surrounding food waste. It's something we can all do to help the world become more sustainable, and which can really make an impact on environmental outcomes. It's divided into three parts, with [part 1](\final_project_part_1.md) detailing the initial outline of the story. 
