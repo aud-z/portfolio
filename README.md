@@ -22,7 +22,7 @@ This project analyzes governnment debt data from the OECD. Check it out [here](/
 
 ### Visualization Critique & Re-design
 
-In this project, I critiqued and created a re-design of a visualization showing the change in employment by sector in September 2021. Check it out [here](/employment_changes.md)
+In this project, I critiqued and created a re-design of a visualization showing the change in employment by sector in September 2021. Check it out [here](/employment_changes.md).
 
 ### Final Project
 
