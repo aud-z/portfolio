@@ -27,4 +27,4 @@ employment_changes.md)
 
 ### Final Project
 
-For my final project, I wanted to create awareness and drive action surrounding food waste. It's something we can all do to help the world become more sustainable, and which can really make an impact on environmental outcomes. It's divided into three parts, with [part 1](\final_project_part_1.md) detailing the initial outline of the story. 
+For my final project, I wanted to create awareness and drive action surrounding food waste. It's something we can all do to help the world become more sustainable, and which can really make an impact on environmental outcomes. It's divided into three parts, with [part 1](/final_project_part_1.md) detailing the initial outline of the story. 
