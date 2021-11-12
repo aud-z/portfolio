@@ -37,6 +37,10 @@ As every day citizens, we can all take action to be more responsible consumers o
 
 Below are some initial sketches of the data I plan to visualize as part of this project.
 
+Additional ideas include:
+- using a map to visualize the amount of food waste per capita, using gradients to indicate countries with higher vs. lower waste amounts
+- using a tree map to segregate the amount of food wasted by category (grains, produce, eggs, etc) by consumer versus retail sources 
+
 # Data
 
 Much of the problem surrounding food waste is the lack of a consistent reporting system. A significant portion of statistics for this assignment will be compiled from news releases and websites relevant to the topic. Several datasets will supplement the analysis: 
@@ -44,9 +48,9 @@ Much of the problem surrounding food waste is the lack of a consistent reporting
 
 -	[Food Waste Index Report](https://www.unep.org/resources/report/unep-food-waste-index-report-2021) (UNEP): This dataset breaks down the food waste quantities by country for the consumer, retail, and food service sectors. This data will be used to compare US food waste in each sector to other countries around the globe. The data are comparable by standardizing into kg/capita/year units. 
 - [2010 food loss by sector](https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/loss-adjusted-food-availability-documentation/) (UDSA): This report includes a table that estimates the total food loss in the US in 2010. It reports both the raw weight of food lost and the percentage of food lost by commodity type (grains products, fruits, etc.) and sector (retail vs. consumer). 
--	[2019 country-level waste dataset](https://datacatalog.worldbank.org/search/dataset/0039597) (World Bank): This dataset reports the proportion of waste by type (food, others) at the country level. This will be used to demonstrate the 
--	[Public opinions](https://www.pewresearch.org/fact-tank/2019/12/19/americans-say-theyre-changing-behaviors-to-help-the-environment-but-is-it-making-a-difference/) (Pew Research Center): surveys showing that Americans usually agree that food waste is an issue
--	[Food insecurity statistics](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-statistics-graphics.aspx) (UDSA): These tables showing the proportion of families that live in food insecurity or low food security
+- [2018 Wasted Food Report])(https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/food-material-specific-data) (EPA): This report includes a table detailing the amount of food waste and management by sector (e.g. % of food waste from residentail sources that end up in the landfill).
+-	[Public opinions](https://www.pewresearch.org/fact-tank/2019/12/19/americans-say-theyre-changing-behaviors-to-help-the-environment-but-is-it-making-a-difference/) (Pew Research Center): surveys showing that Americans usually agree that food waste is an issue.
+-	[Food insecurity statistics](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-statistics-graphics.aspx) (UDSA): These tables showing the proportion of families that live in food insecurity or low food security.
 
 # Method and medium
 
