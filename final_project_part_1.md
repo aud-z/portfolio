@@ -1,9 +1,9 @@
 # Introduction
 
-I’ve been making an effort in my own life to limit the amount of food I waste. Especially after moving to an apartment that does not offer composting where living by myself, I’ve realized the importance of actually planning out my meals so that I can consume everything I buy before they spoil. With so much emphasis on environmental issues and sustainability in recent political dialogue, it can oftentimes feel overwhelming to understand how each of us can take action that actually has an impact on the environment. I believe that eliminating food waste is something we can all do that would make a considerable impact towards a more sustainable future, and I’d like to use this project to create awareness around this issue. 
+I’ve been making an effort to limit the amount of food I waste. Especially after moving to an apartment that does not offer composting, I’ve realized the importance of actually planning out my meals so that I can consume everything I buy before they spoil. With so much emphasis on environmental issues and sustainability in recent political dialogue, it can feel overwhelming and difficult to understand how each of us can take action that actually makes a positive environmental impact. I believe that eliminating food waste is something we can all do that would make a considerable impact towards a more sustainable future, and I’d like to use this project to create awareness around this issue. 
 
 # Outline
-## Let’s taco ‘bout food waste… 
+## Let’s talk about food waste… 
 
 What do we think of when we think of food? Nourishing. Fulfillment. An experience shared with friends and family. But what often goes unnoticed is the amount of food gone to waste, ending up in landfills around the globe. In this section, I plan on providing a brief introduction to food waste using various statistics to drive home the immense quantity of food we throw away each year. 
 
@@ -21,7 +21,7 @@ In the US, only 5% of food is composted. The rest ends up in landfills. Food was
 
 ## How much food is wasted at home? 
 
-Food waste is generated at all stages of the food pipeline, from the agricultural industry to the end-point consumers. However, unlike other key drivers of of emissions/global warming, the consumer impact isn't significantly outweighed by companies and manufacturers. 43% of all food waste occurs at the consumer level, in our homes and everyday lives. In comparison, 40% comes from restaurants, grocery stores, and food service companies, 16% from farms, and 2% from manufacturers. This represents a huge opportunity for us to create an impact through consciously reducing food waste. 
+Food waste is generated at all stages of the food pipeline, from the agricultural industry to the end-point consumers. However, unlike other key drivers of of emissions/global warming, the consumer impact *isn't* significantly outweighed by companies and manufacturers. 43% of all food waste occurs at the consumer level, in our homes and everyday lives. In comparison, 40% comes from restaurants, grocery stores, and food service companies, 16% from farms, and 2% from manufacturers. This represents a huge opportunity for us to create an impact through consciously reducing food waste. 
 
 ## Why do we waste so much food? 
 
@@ -56,7 +56,6 @@ Additional ideas include:
 # Data
 
 Much of the problem surrounding food waste is the lack of a consistent reporting system. A significant portion of statistics for this assignment will be compiled from news releases and websites relevant to the topic. Several datasets will supplement the analysis: 
-
 
 -	[Food Waste Index Report](https://www.unep.org/resources/report/unep-food-waste-index-report-2021) (UNEP): This dataset breaks down the food waste quantities by country for the consumer, retail, and food service sectors. This data will be used to compare US food waste in each sector to other countries around the globe. The data are comparable by standardizing into kg/capita/year units. 
 - [2010 food loss by sector](https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/loss-adjusted-food-availability-documentation/) (UDSA): This report includes a table that estimates the total food loss in the US in 2010. It reports both the raw weight of food lost and the percentage of food lost by commodity type (grains products, fruits, etc.) and sector (retail vs. consumer). 
