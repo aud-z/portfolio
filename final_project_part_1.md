@@ -37,6 +37,18 @@ As every day citizens, we can all take action to be more responsible consumers o
 
 Below are some initial sketches of the data I plan to visualize as part of this project.
 
+The first visualization will be a Sankey graph showing the flow of food waste from each source to each sink (processing plant). The key idea is to highlight how much of the waste is flowing from households/consumers to landfills.
+
+![Sankey](/final_project/sankey_sketch.jpg)
+
+I will also include a graph visualizing the percentage of households living with food insecurity, and the percentage of households with children living in food insecurity, over time.
+
+![insecurity](/final_project/insecurity_sketch.jpg)
+
+I also thought it would be interesting to see the proportion of food waste coming from diffent sources (consumers, retailers, etc) by country. The following stacked bar graph hops to capture that. 
+
+![waste_source](/final_project/waste_country_sketch.jpg)
+
 Additional ideas include:
 - using a map to visualize the amount of food waste per capita, using gradients to indicate countries with higher vs. lower waste amounts
 - using a tree map to segregate the amount of food wasted by category (grains, produce, eggs, etc) by consumer versus retail sources 
