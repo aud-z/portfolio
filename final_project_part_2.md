@@ -17,8 +17,9 @@ For each visualization, I asked the following three questions:
 -	For intuitiveness/perceptibility: “At first glance, what are you seeing here?” 
 -	For comprehension, engagement: “What do you think the main message here is?”
 -	For usefulness and flow: “Does this visual complement the surrounding context?” 
--	Additional: “Do you have any additional feedback? 
-After the overall presentation, I asked the following questions:
+-	Additional: “Do you have any additional feedback?" 
+
+After the entire presentation, I also asked the following questions:
 -	For story flow: “Overall, did the flow of the story and data make sense?
 -	For storytelling effectiveness: “Is it clear what the target audience and ‘call-to-action’ is?
 -	Additional feedback: “What would you change? 
