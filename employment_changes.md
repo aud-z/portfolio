@@ -64,3 +64,6 @@ Below is my re-designed version of the chart. I incorporated user feedback in hi
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+  
+  Return to [Portfolio homepage](/README.md)
+
