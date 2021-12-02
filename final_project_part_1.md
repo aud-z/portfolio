@@ -73,6 +73,8 @@ For the final presentation, I’ll plan to give a brief overview of the project 
 
 
 Visit [Part 2](/final_project_part_2.md)
+
 Visit [Part 3](/final_project_part_3.md)
+
 Return to [Portfolio homepage](/README.md)
 
