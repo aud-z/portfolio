@@ -31,3 +31,7 @@ Visit [Part 1](/final_project_part_1.md)
 Visit [Part 2](/final_project_part_2.md)
 
 Return to [Portfolio homepage](/README.md)
+
+# final product
+
+<script src="https://carnegiemellon.shorthandstories.com/waste-not-want-not/embed.js"></script>
