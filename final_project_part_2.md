@@ -30,7 +30,6 @@ The feedback from the users are summarized below. Note that since the order of i
 ### Graph 1: % of Households with Food Insecurity (Line graph)
 
 | Question | User A | User B | User C |
-
 | ------ | ------ | ------ | ------ | 
 | What are you seeing here?| On average, households with children experience more food insecurity; large jump in food insecurity after the great recession for both segments; more or less parallel trend until 2020 | Two parallel trends; I'm surprised households with children are higher | Two line graphs; one representing all households and one with children. We're in about the same position now as in '98 |
 | What do you think the main message is? | Households with children experience higher food insecurity | Families with young children experience more food insecurity | Households with children have more food insecurity (sad!) |
@@ -40,7 +39,6 @@ The feedback from the users are summarized below. Note that since the order of i
 ### Graph 2: Annual Food Waste by Country (Choloropleth map)
 
 | Question | User A | User B | User C |
-
 | ------ | ------ | ------ | ------ | 
 |What are you seeing here? | US, China are biggest food wasters per capita in the world. The selection filters are not super apparent at first| Spread of food waste; relatively evenly distributed except for Nigeria; looks like Russia has exceptionally low |Map of the world, with values with no legend | 
 |What do you think the main message is? | Dynamic way of looking at how food waste is dispersed throughout the world, and looking at which countries are worse by different sources. It's surprising which countries have high waste values looking at total waste.|More global issue than I thought; first assumption is that wealthier countries would have higher food waste  | China is very wasteful in terms of total food waste. The graph of food waste seems to be only half of the message here.| 
