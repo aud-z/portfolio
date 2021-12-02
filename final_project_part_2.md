@@ -103,5 +103,7 @@ Generally, it seems the main point of each visualization could be further clarif
 - Take another look at structuring the story in terms of overall flow
 
 Visit [Part 1](/final_project_part_1.md)
+
 Visit [Part 3](/final_project_part_3.md)
+
 Return to [Portfolio homepage](/README.md)
