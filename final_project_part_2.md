@@ -102,6 +102,6 @@ Generally, it seems the main point of each visualization could be further clarif
 - consider adding definitions for 'food waste', and/or definitions for the various breakdowns in food waste generation (household vs. retail, etc.) 
 - Take another look at structuring the story in terms of overall flow
 
-[Visit Part 1](/final_project_part_1.md)
-[Visit Part 3](/final_project_part_3.md)
-[Portfolio homepage](/README.md)
+[Visit Part 1](/final_project_part_1.md)\n
+[Visit Part 3](/final_project_part_3.md)\n
+[Portfolio homepage](/README.md)\n
