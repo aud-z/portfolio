@@ -1,3 +1,5 @@
+[Home](/README.md)
+
 # Introduction
 
 I’ve been making an effort to limit the amount of food I waste. Especially after moving to an apartment that does not offer composting, I’ve realized the importance of actually planning out my meals so that I can consume everything I buy before they spoil. With so much emphasis on environmental issues and sustainability in recent political dialogue, it can feel overwhelming and difficult to understand how each of us can take action that actually makes a positive environmental impact. I believe that eliminating food waste is something we can all do that would make a considerable impact towards a more sustainable future, and I’d like to use this project to create awareness around this issue. 
