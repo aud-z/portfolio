@@ -1,6 +1,6 @@
 # Part 3: Putting it All Together
 
-In [part 2](final_project_part_2.md) of my final project, I wireframed my data story, created draft visuals, and conducted user research to get feedback on the wireframe and charts. The last piece of my assignment is putting it all together to create a compelling narrative about food waste, with supporting visuals that would both inform the audience of an issue and guide them to action. This page summarizes the process of creating the final product, but feel free to skip ahead and check out the final project [here](https://carnegiemellon.shorthandstories.com/waste-not-want-not/index.html). 
+In [Part 2](final_project_part_2.md) of my final project, I wireframed my data story, created draft visuals, and conducted user research to get feedback on the wireframe and charts. The last piece of my assignment is putting it all together to create a compelling narrative about food waste, with supporting visuals that would both inform the audience of an issue and guide them to action. This page summarizes the process of creating the final product, but feel free to skip ahead and check out the final project [here](https://carnegiemellon.shorthandstories.com/waste-not-want-not/index.html). 
 
 ## Implementing User Feedback
 
