@@ -31,7 +31,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 | What are you seeing here?| On average, households with children experience more food insecurity; large jump in food insecurity after the great recession for both segments; more or less parallel trend until 2020 | Two parallel trends; I'm surprised households with children are higher | Two line graphs; one representing all households and one with children. We're in about the same position now as in '98 |
 | What do you think the main message is? | Households with children experience higher food insecurity | Families with young children experience more food insecurity | Households with children have more food insecurity (sad!) |
 | Does this visual complement the surrounding context? | Yes in that it's in line with the food waste vs. food insecurity; there hasn't been a mention on households with children. | Yes definitely | I think the term 'stark contrast' is misleading since the chart isn't showing any contrast. Maybe it would make more sense to have just one line for all households, since that's the main message of the story. |
@@ -41,7 +40,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |What are you seeing here? | US, China are biggest food wasters per capita in the world. The selection filters are not super apparent at first| Spread of food waste; relatively evenly distributed except for Nigeria; looks like Russia has exceptionally low |Map of the world, with values with no legend | 
 |What do you think the main message is? | Dynamic way of looking at how food waste is dispersed throughout the world, and looking at which countries are worse by different sources. It's surprising which countries have high waste values looking at total waste.|More global issue than I thought; first assumption is that wealthier countries would have higher food waste  | China is very wasteful in terms of total food waste. The graph of food waste seems to be only half of the message here.| 
 | Does this visual complement the surrounding context? |Yes; gives more context around what was just discussed beforehand | The assumption is you want us to feel that it's an issue that transcends our own backyard; everyone contributes to the broader problem| Maybe separate the two statements where you talk about 'the undernourishment' problem? The graphic is about regionalization but the statement is about the world as a whole. | 
@@ -52,7 +50,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |At first glance, what are you seeing here? |Food waste in general is huge GH emissions offender; well ahead of the next closest country of India |Color draws my eyes to food first, still shocked at how much China and US beat food production; also wondering how much of food carbon emissions are represented by food production…  | Reducing food waste could help us with greenhouse gasses. | 
 |What do you think the main message is? |Same as above |Food waste is significant contributor of GH emissions |Food waste is an environmental impact beyond the social impact. | 
 | Does this visual complement the surrounding context? | Yes|I think so |This is better than the previous two tiles.|  
@@ -61,7 +58,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |At first glance, what are you seeing here? | Homes account for almost half of food waste in US, more than food service industry which is incredible | I think this feels like a departure from other flowchart; homes are still largest flowchart but is much closer to groceries and other retailers. Might be useful to label the percentages here.| A donut chart| 
 |What do you think the main message is? |Same thing; households themselves are big source of waste and should be addressed as a way to curb food waste. I'm curious what the difference is between restaurant and food service category | Homes and restaurants/groceries… take up most of the donut | Waste at the home is the biggest contributor | 
 | Does this visual complement the surrounding context? | Yes | It does, but feels like it harkens back to flowchart | Yes | 
@@ -71,7 +67,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |At first glance, what are you seeing here? |This is interesting. It looks like a flowchart of what proportion of waste from different sources ends up in different areas | Shockingly, residential food waste contributes more to landfills | Sankey chart, showing movement of waste| 
 |What do you think the main message is? | Can see right off the bad that residential waste contributes greatly to landfill (a little under half). Also the plurality of all waste ends up in landfills. | Shockingly individuals contribute to landfills through what sounds like overconsumption . Residential contribution to landfills is about the same as from all other sources|Food waste mostly ends up in landfills  | 
 | Does this visual complement the surrounding context? | I think so… you mention landfills in the sentence right above. I would be interested in other areas like controlled combustion… what is that? |Makes sense |Yes? But I find my eyes drawn to the remaining destinations other than Landfill. Maybe make Landfill brighter and more impactful  | 
@@ -82,7 +77,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |At first glance, what are you seeing here? |Meat poultry and fish are the largest in terms of money lost, but are not the most wasted in terms of weight. It's interesting that Grain is highest for retail lost. Vegetables for consumers are the largest wasted food item by lbs for consumers.|I'm surprised consumers waste so much more meat than retailers; I'm shocked by how little we consume other things like eggs | Bubble chart. Sizes represent how much money is associated with each category. | 
 |What do you think the main message is? |There's a difference between food waste and financial waste |I'm not sure. There's a pretty even spread of the categories and amounts being wasted  | The graph does not help me at all. Meat poultry and fish is expensive.| 
 | Does this visual complement the surrounding context? |Yes; it took a second to process the chart but the two sentences prior made it a lot easier to interpret. |Kind of; because I didn't read the text it didn't feel like it did, with the text it makes sense |Not really. Maybe change the title to 'what foods do we waste'?  | 
@@ -92,7 +86,6 @@ The feedback from the users are summarized below. Note that since the order of i
 
 | Question | User A | User B | User C |
 | ------ | ------ | ------ | ------ | 
-
 |Overall, did the flow of the story and data make sense?| I think so. I think region-wise it was a bit confusing to go from US to global to US again, so maybe find a way to make that flow more natural? |I like the landfill one where it is now; would move the greenhouse emissions up behind the map. Otherwise I like your hook, then moving from global to US then residential.  | I would try to pull up the problem of consumers being the biggest source of waste earlier, since this is the key point of this story. | 
 |Is it clear what the target audience and  'call-to-action' is?| Target audience is everyday Americans/average consumer, or some sort of food non-profit or even policy majors. Call to action: understanding why you're wasting food, why it matters, environmental impact. The amount of space in landfills was shocking, so was a key takeaway. | Yes, think your call to action is very clear and thorough which I appreciate. I like that there are different scales/types of action. It feels coherent as a story | Everyday citizens who eat at home are the target audience.  The 'call-to-action' is clear. I compost!| 
 |What would you change?| Water waste for milk and beef - is that water used for production? On your charts, the axes and labels maybe not using such a light gray, some screens might not show up.|Other than the stuff I mentioned… The empire state building graphic… it's hard to picture the scale with a pictogram like this, it might make more sense to just have a scrollable image to give a sense of scale. |I'd add a sentence describing what food waste is off the get-go. The thought that there was industrial food waste and other sources did not really sink in for me. | 
